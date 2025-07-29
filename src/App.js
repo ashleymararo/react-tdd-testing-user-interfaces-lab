@@ -1,6 +1,6 @@
 function App() {
   return <div>
-      <h1>Hi, I'm Benson</h1>
+      <h1>Hi, I'm Ashley</h1>
       <img
         src="https://via.placeholder.com/150"
         alt="My photo"
